@@ -13,6 +13,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 
 ---
-Acesse o proojeto aqui: [BiscoitoDaSorte](https://www.biscoitodasorte-two.vercel.app
+Acesse o proojeto aqui: [BiscoitoDaSorte](https://xumbreks.github.io/biscoitodasorte/
 )
+---
 Feito com ♥
